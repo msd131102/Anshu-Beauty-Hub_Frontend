@@ -3,7 +3,7 @@
 A modern **MERN Full-Stack E-Commerce Website** for selling **organic and natural beauty products**.  
 It offers a complete shopping experience — from browsing and adding products to cart, to secure checkout and admin management — all in one elegant platform.
 
-![Project Banner]()
+![Project Banner](https://github.com/msd131102/Anshu-Beauty-Hub_Frontend/blob/main/ANSHU%20BEAUTY%20HUB%20-%20Google%20Chrome%2012-10-2025%2020_47_23.png)
 
 ---
 
@@ -52,5 +52,49 @@ This project demonstrates end-to-end full-stack development skills — including
 
 ---
 
-## 🧩 Folder Structure
+
+💡 Scripts
+Command	Description
+npm start	Runs the frontend in development mode
+npm run server	Starts the backend server
+npm run build	Builds the frontend for production
+📸 Screenshots
+Home Page	Product Details	Admin Dashboard
+
+	
+	
+🔐 Environment Variables
+Variable	Description
+MONGO_URI	MongoDB connection URL
+JWT_SECRET	Secret key for token signing
+STRIPE_SECRET_KEY	Stripe private key for payments
+PORT	Server running port (default 5000)
+☁️ Deployment
+
+Frontend: Deployed on Render
+
+Backend: Deployed on Render
+
+Database: Hosted on MongoDB Atlas
+
+🧑‍🎓 Author
+
+👤 SivaDora Madepalli
+💻 Full Stack Developer | Passionate about MERN, UI/UX, and modern web apps//
+
+GitHub: @msd131102
+
+LinkedIn: SivaDora Madepalli
+
+ (add when ready)
+
+💬 Feedback
+
+If you like this project, feel free to ⭐ the repository and share feedback!
+Issues and pull requests are welcome.
+
+📄 License
+
+This project is licensed under the MIT License — see the LICENSE
+ file for details.
 
